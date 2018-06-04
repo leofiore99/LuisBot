@@ -1,0 +1,232 @@
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\LuisBot.dll.config
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\LuisBot.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\LuisBot.pdb
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Autofac.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Chronic.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\EntityFramework.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\EntityFramework.SqlServer.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.Azure.Documents.Client.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.Bot.Builder.Azure.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.Bot.Builder.History.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.Data.Edm.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.Data.OData.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.Data.Services.Client.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Newtonsoft.Json.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\System.Net.Http.Formatting.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\System.Spatial.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\System.Web.Http.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\System.Web.Http.WebHost.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Autofac.xml
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\EntityFramework.xml
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\EntityFramework.SqlServer.xml
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.Azure.Documents.Client.xml
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.Bot.Builder.pdb
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.Bot.Builder.Autofac.pdb
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.Bot.Builder.Azure.pdb
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.Bot.Builder.Azure.xml
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.Bot.Builder.History.pdb
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.Bot.Builder.History.xml
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.Data.Edm.xml
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.Data.OData.xml
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.Data.Services.Client.xml
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\Newtonsoft.Json.xml
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\System.Net.Http.Formatting.xml
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\System.Spatial.xml
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\System.Web.Http.xml
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\System.Web.Http.WebHost.xml
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\de\System.Spatial.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\es\System.Spatial.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\fr\System.Spatial.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\it\System.Spatial.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\ja\System.Spatial.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\ko\System.Spatial.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\ru\System.Spatial.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\obj\Release\LuisBot.csproj.CoreCompileInputs.cache
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\obj\Release\LuisBot.dll
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\obj\Release\LuisBot.pdb
+C:\Users\leo_f\Documents\Visual Studio 2017\Projects\LuisBot\LuisBot\obj\Release\LuisBot.csprojResolveAssemblyReference.cache
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\LuisBot.dll.config
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\LuisBot.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\LuisBot.pdb
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Autofac.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Chronic.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\EntityFramework.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\EntityFramework.SqlServer.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.Azure.Documents.Client.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.Bot.Builder.Azure.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.Bot.Builder.History.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.Data.Edm.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.Data.OData.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.Data.Services.Client.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Newtonsoft.Json.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\System.Net.Http.Formatting.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\System.Spatial.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\System.Web.Http.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\System.Web.Http.WebHost.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Autofac.xml
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\EntityFramework.xml
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\EntityFramework.SqlServer.xml
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.Azure.Documents.Client.xml
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.Bot.Builder.pdb
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.Bot.Builder.Autofac.pdb
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.Bot.Builder.Azure.pdb
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.Bot.Builder.Azure.xml
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.Bot.Builder.History.pdb
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.Bot.Builder.History.xml
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.Data.Edm.xml
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.Data.OData.xml
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.Data.Services.Client.xml
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\Newtonsoft.Json.xml
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\System.Net.Http.Formatting.xml
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\System.Spatial.xml
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\System.Web.Http.xml
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\System.Web.Http.WebHost.xml
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\de\System.Spatial.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\es\System.Spatial.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\fr\System.Spatial.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\it\System.Spatial.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\ja\System.Spatial.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\ko\System.Spatial.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\ru\System.Spatial.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\obj\Release\LuisBot.csprojResolveAssemblyReference.cache
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\obj\Release\LuisBot.csproj.CoreCompileInputs.cache
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\obj\Release\LuisBot.dll
+C:\Users\leo_f\Desktop\ChatBot\LuisBot\LuisBot\obj\Release\LuisBot.pdb
